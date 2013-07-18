@@ -45,7 +45,7 @@ Scheme
 		//"Ubercharge Amount"						"48 255 48 255" // disabled temporarily; currently controlled by ammo in clip color
 	
 		"Heal Numbers"							"48 255 48 255"
-		"Damage Numbers"						"255 255 0 255"
+		"Damage Numbers"						"72 255 255 255"
 		
 		//'Last DamageHeal Info' refers to the number that appears above hp
 		"Last DamageHeal Info"					"72 255 255 255"

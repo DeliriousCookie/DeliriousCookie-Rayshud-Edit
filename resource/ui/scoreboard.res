@@ -41,7 +41,7 @@
 		"pinCorner"				"0"
 		"visible"				"1"
 		"enabled"				"1"
-		"fillcolor"				"30 30 30 175"
+		"fillcolor"				"30 30 30 250"
 		"PaintBackgroundType"		"0"
 		
 		if_mvm
@@ -68,7 +68,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"tabPosition"				"0"	
-		"fillcolor"				"30 30 30 175"
+		"fillcolor"				"30 30 30 250"
 		"PaintBackgroundType"		"0"
 		
 		if_mvm
