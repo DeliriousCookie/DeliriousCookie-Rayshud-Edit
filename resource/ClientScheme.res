@@ -45,15 +45,15 @@ Scheme
 		//"Ubercharge Amount"						"48 255 48 255" // disabled temporarily; currently controlled by ammo in clip color
 	
 		"Heal Numbers"							"48 255 48 255"
-		"Damage Numbers"						"72 255 255 255"
+		"Damage Numbers"						"255 255 0 255"
 		
 		//'Last DamageHeal Info' refers to the number that appears above hp
-		"Last DamageHeal Info"					"72 255 255 255"
+		"Last DamageHeal Info"					"255 255 0 255"
 	
 		//Rainbow Uber Colors
 		
 			"ColorRed"						"255 0 0 255"
-			"ColorVermillion"						"255 64 0 255"
+			"ColorVermillion"				"255 64 0 255"
 			"ColorOrange"					"255 128 0 255"
 			"ColorYellow"					"255 255 0 255"
 			"ColorLime"						"128 255 0 255"
@@ -470,7 +470,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"12"
 				"antialias" 	"1"
 			}
@@ -730,7 +730,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"32"
 				"tall_lodef"	"80"
 				"additive"	"0"
@@ -738,7 +738,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"44"
 				"tall_hidef"	"120"
 				"additive"	"0"
@@ -746,21 +746,21 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"48"
 				"additive"	"0"
 				"antialias" "1"
 			}
 			"4"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"52"
 				"additive"	"0"
 				"antialias" "1"
 			}
 			"5"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"72"
 				"additive"	"0"
 				"antialias" "1"
@@ -770,7 +770,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"64"
 				"additive"	"0"
 				"antialias" "1"
@@ -781,7 +781,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"48"
 				"additive"	"0"
 				"antialias" "1"
@@ -792,7 +792,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"44"
 				"additive"	"0"
 				"antialias" "1"
@@ -802,7 +802,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"36"
 				"additive"	"0"
 				"antialias" "1"
@@ -812,7 +812,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"36"
 				"additive"	"0"
 				"antialias" "1"
@@ -822,7 +822,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"32"
 				"additive"	"0"
 				"antialias" "1"
@@ -832,7 +832,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"32"
 				"additive"	"0"
 				"antialias" "1"
@@ -842,7 +842,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"32"
 				"additive"	"0"
 				"antialias" "1"
@@ -852,7 +852,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"28"
 				"additive"	"0"
 				"antialias" "1"
@@ -862,7 +862,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"28"
 				"additive"	"0"
 				"antialias" "1"
@@ -872,7 +872,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"28"
 				"additive"	"0"
 				"antialias" "1"
@@ -882,7 +882,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"14"
 				"additive"	"0"
 				"antialias" "1"
@@ -892,7 +892,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"16"
 				"additive"	"0"
 				"antialias" "1"
@@ -902,7 +902,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"14"
 				"additive"	"0"
 				"antialias" "1"
@@ -912,7 +912,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"14"
 				"additive"	"0"
 				"antialias" "1"
@@ -922,7 +922,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -932,7 +932,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -942,7 +942,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -952,7 +952,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -962,7 +962,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"10"
 				"additive"	"0"
 				"antialias" "1"
@@ -972,7 +972,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"16"
 				"additive"	"0"
 				"antialias" "1"
@@ -982,7 +982,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -992,7 +992,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"10"
 				"additive"	"0"
 				"antialias" "1"
@@ -1002,7 +1002,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"8"
 				"additive"	"0"
 				"antialias" "1"
@@ -1012,7 +1012,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -1022,7 +1022,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"11"
 				"additive"	"0"
 				"antialias" "1"
@@ -1064,7 +1064,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" "1"
@@ -1074,7 +1074,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"16"
 				"tall_hidef"	"22"
 				"tall_lodef"	"22"
@@ -1134,7 +1134,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"15"
 				"weight"	"700"
 				"antialias" 	"1"
@@ -1144,7 +1144,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"15"	[$WIN32]
 				"tall"		"21"	[$X360]
 				"weight"	"700"
@@ -1155,7 +1155,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"18"
 				"weight"	"900"
 				"antialias" 	"1"
@@ -1164,7 +1164,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"21"
 				"weight"	"900"
 				"antialias" 	"1"
@@ -1173,7 +1173,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"24"
 				"weight"	"1000"
 				"antialias" 	"1"
@@ -1327,7 +1327,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"24"
 				"antialias" "1"
 				"weight"	"500"
@@ -1348,7 +1348,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"12"
 				"antialias" "1"
 				"weight"	"500"
@@ -1373,7 +1373,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2"
+				"name"			"TF2 Secondary"
 				"tall"			"28"
 				"additive"	"0"
 				"antialias" "1"
@@ -1383,7 +1383,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2"
+				"name"			"TF2 Secondary"
 				"tall"			"40"
 				"additive"	"0"
 				"antialias" "1"
@@ -1393,7 +1393,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"24"
 				"additive"	"0"
 				"antialias" "1"
@@ -1403,7 +1403,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2"
+				"name"			"TF2 Secondary"
 				"tall"			"14"
 				"additive"		"0"
 				"antialias" 	"1"
@@ -1493,7 +1493,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"52"
 				"tall_lodef"		"80"
 				"range" 	"0x0000 0x00FF"
@@ -1503,7 +1503,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"72"
 				"tall_hidef"	"120"
 				"range" 	"0x0000 0x00FF"
@@ -1513,7 +1513,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"100"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1522,7 +1522,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"140"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1531,7 +1531,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"180"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -1567,7 +1567,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -1621,7 +1621,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"		"480 599"
@@ -1721,7 +1721,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"14"
 				"tall_lodef"	"18"
 				"range" 		"0x0000 0x00FF"
@@ -1734,7 +1734,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"12"
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1746,7 +1746,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"8"
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1799,7 +1799,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"36"
 				"additive"	"0"
 				"antialias" "1"
@@ -1809,7 +1809,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"30"
 				"additive"	"0"
 				"antialias" "1"
@@ -1819,7 +1819,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"28"
 				"additive"	"0"
 				"antialias" "1"
@@ -1847,7 +1847,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"22"
 				"additive"	"0"
 				"antialias" "1"
@@ -1857,7 +1857,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" "1"
@@ -1972,7 +1972,7 @@ Scheme
 		"1"
 			{
 				
-				"name"		 "TF2"
+				"name"		 "TF2 Secondary"
 				"tall" 		 "14"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -1982,7 +1982,7 @@ Scheme
 		{
 		"1"
 			{
-				"name"		 "TF2"
+				"name"		 "TF2 Secondary"
 				"tall" 		 "15"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -1992,7 +1992,7 @@ Scheme
 		{
 		"1"
 			{
-				"name"		 "TF2"
+				"name"		 "TF2 Secondary"
 				"tall" 		 "16"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2002,7 +2002,7 @@ Scheme
 		{
 		"1"
 			{
-				"name"		 "TF2"
+				"name"		 "TF2 Secondary"
 				"tall" 		 "10"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2012,7 +2012,7 @@ Scheme
 		{
 		"1"
 			{
-				"name"		 "TF2"
+				"name"		 "TF2 Secondary"
 				"tall" 		 "11"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2022,7 +2022,7 @@ Scheme
 		{
 		"1"
 			{
-				"name"		 "TF2"
+				"name"		 "TF2 Secondary"
 				"tall" 		 "12"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2032,7 +2032,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"9"
 				"additive"	"0"
 				"antialias" "1"
@@ -2042,7 +2042,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"9"
 				"additive"	"1"
 				"antialias" 	"1"
@@ -2113,7 +2113,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"12"
 				"additive"	"1"
 				"antialias" 	"1"
@@ -2176,7 +2176,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"11"
 				"additive"	"1"
 				"antialias" "1"
@@ -2186,7 +2186,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"14"
 				"additive"	"1"
 				"antialias" "1"
@@ -2196,7 +2196,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"18"
 				"additive"	"1"
 				"antialias" "1"
@@ -2206,7 +2206,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"24"
 				"additive"	"1"
 				"antialias" "1"
@@ -2216,7 +2216,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"TF2 Secondary"
 				"tall"		"18"
 				"additive"	"1"
 				"antialias" "1"
@@ -2645,7 +2645,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "TF2"
+				"name"		 "TF2 Secondary"
 				"tall" 		 "7"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2655,7 +2655,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "TF2"
+				"name"		 "TF2 Secondary"
 				"tall" 		 "8"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2665,7 +2665,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "TF2"
+				"name"		 "TF2 Secondary"
 				"tall" 		 "9"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2675,7 +2675,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "TF2"
+				"name"		 "TF2 Secondary"
 				"tall" 		 "12"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2685,7 +2685,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "TF2"
+				"name"		 "TF2 Secondary"
 				"tall" 		 "14"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2695,7 +2695,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "TF2"
+				"name"		 "TF2 Secondary"
 				"tall" 		 "16"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2705,7 +2705,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "TF2"
+				"name"		 "TF2 Secondary"
 				"tall" 		 "20"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2715,7 +2715,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "TF2"
+				"name"		 "TF2 Secondary"
 				"tall" 		 "22"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2726,7 +2726,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "TF2"
+				"name"		 "TF2 Secondary"
 				"tall" 		 "24"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2747,7 +2747,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "TF2"
+				"name"		 "TF2 Secondary"
 				"tall" 		 "26"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2757,7 +2757,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "TF2"
+				"name"		 "TF2 Secondary"
 				"tall" 		 "32"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2767,7 +2767,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "TF2"
+				"name"		 "TF2 Secondary"
 				"tall" 		 "40"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2777,7 +2777,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "TF2"
+				"name"		 "TF2 Secondary"
 				"tall" 		 "48"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2787,7 +2787,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "TF2"
+				"name"		 "TF2 Secondary"
 				"tall" 		 "52"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2797,7 +2797,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "TF2"
+				"name"		 "TF2 Secondary"
 				"tall" 		 "54"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2807,7 +2807,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "TF2"
+				"name"		 "TF2 Secondary"
 				"tall" 		 "55"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2817,7 +2817,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "TF2"
+				"name"		 "TF2 Secondary"
 				"tall" 		 "56"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2827,7 +2827,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "TF2"
+				"name"		 "TF2 Secondary"
 				"tall" 		 "60"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -2837,7 +2837,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		 "TF2"
+				"name"		 "TF2 Secondary"
 				"tall" 		 "72"
 				"additive"	 "0"
 				"antialias"	 "1"
@@ -4588,8 +4588,8 @@ Scheme
 		"14" // TF2 font for TargetIDs, menus, etc.
 		{
 		
-			"font" "resource/TF2.ttf"
-			"name" "TF2"
+			"font" "resource/TF2secondary.ttf"
+			"name" "TF2 Secondary"
 		}
 		"15" // TF2 Bulild for ammo/health, etc.
 		{

@@ -27,7 +27,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"0 0 0 100"
+		"fillcolor"		"30 30 30 250"
 	}
 	"PopFileLabel"
 	{
