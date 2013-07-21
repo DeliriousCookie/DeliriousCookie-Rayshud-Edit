@@ -7,12 +7,12 @@
 		"fieldName"	 	"xHairCircle"
 		"font"			"xHairCircle"
 		"visible"		"0"
-		"enabled"		"0"
+		"enabled"		"1"
 		"zpos"			"2"
 
 		"xpos"			"c-100"
 		"ypos"			"c-102"
-		"wide"			"201"
+		"wide"			"200"
 		"tall"			"200"
 
 		//"font"		"xHairCircleOutline"
@@ -20,7 +20,7 @@
 		"labelText"		"o"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"255 255 255 100"
+		"fgcolor"		"255 255 255 75"
 	}
 	
 	ScatterSpread
@@ -155,7 +155,7 @@
 		"controlName"	"CExLabel"
 		"fieldName"	 	"ThinCircle"
 		"visible"		"0"
-		"enabled"		"0"
+		"enabled"		"1"
 		"zpos"			"2"
 
 		"xpos"			"c-100"
@@ -176,7 +176,7 @@
 		"controlName"	"CExLabel"
 		"fieldName"	 	"WingsPlus"
 		"visible"		"0"
-		"enabled"		"0"
+		"enabled"		"1"
 		"zpos"			"2"
 
 		"xpos"			"c-100"
@@ -197,7 +197,7 @@
 		"controlName"	"CExLabel"
 		"fieldName"	 	"Wings"
 		"visible"		"0"
-		"enabled"		"0"
+		"enabled"		"1"
 		"zpos"			"2"
 
 		"xpos"			"c-100"
@@ -218,7 +218,7 @@
 		"controlName"	"CExLabel"
 		"fieldName"	 	"WingsSmallDot"
 		"visible"		"0"
-		"enabled"		"0"
+		"enabled"		"1"
 		"zpos"			"2"
 
 		"xpos"			"c-100"
@@ -239,7 +239,7 @@
 		"controlName"	"CExLabel"
 		"fieldName"	 	"WingsSmall"
 		"visible"		"0"
-		"enabled"		"0"
+		"enabled"		"1"
 		"zpos"			"2"
 
 		"xpos"			"c-100"
@@ -260,7 +260,7 @@
 		"controlName"	"CExLabel"
 		"fieldName"	 	"OpenCross"
 		"visible"		"0"
-		"enabled"		"0"
+		"enabled"		"1"
 		"zpos"			"2"
 
 		"xpos"			"c-85"
@@ -281,7 +281,7 @@
 		"controlName"	"CExLabel"
 		"fieldName"	 	"OpenCrossDot"
 		"visible"		"0"
-		"enabled"		"0"
+		"enabled"		"1"
 		"zpos"			"2"
 
 		"xpos"			"c-85"
@@ -302,7 +302,7 @@
 		"controlName"	"CExLabel"
 		"fieldName"	 	"ThinCross"
 		"visible"		"0"
-		"enabled"		"0"
+		"enabled"		"1"
 		"zpos"			"2"
 
 		"xpos"			"c-100"
@@ -323,7 +323,7 @@
 		"controlName"	"CExLabel"
 		"fieldName"	 	"KonrWings"
 		"visible"		"0"
-		"enabled"		"0"
+		"enabled"		"1"
 		"zpos"			"2"
 
 		"xpos"			"c-108"
@@ -358,7 +358,7 @@
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"0"
+		"enabled"		"1"
 		"fillcolor"		"255 255 255 255"
 		"alpha" "50"
 	}
@@ -379,7 +379,7 @@
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"0"
+		"enabled"		"1"
 		"fillcolor"		"255 255 255 255"
 		"alpha" "50"
 	}
@@ -400,7 +400,7 @@
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"0"
+		"enabled"		"1"
 		"fillcolor"		"255 255 255 255"
 		"alpha" "50"
 	}
@@ -441,9 +441,9 @@
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"0"
+		"enabled"		"1"
 		"fillcolor"		"255 255 255 255"
-		"alpha" "150"
+		"alpha" "50"
 	}
 	"16x9dark_left"
 	{
@@ -1247,22 +1247,22 @@
 		"wide"	 "580"
 		"tall"	 "468"
 
-		"MaxDeathNotices" "8"
+		"MaxDeathNotices" "6"
 		"IconScale"	  "0.35"
 		"LineHeight"	  "14"
 		"LineSpacing"	  "0"
 		"CornerRadius"	  "0"
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 		
-		"TextFont"		"CerbeticaBold14"
+		"TextFont"		"Cerbetica14"
 		
 		"TeamBlue"		"HUDBlueTeamSolid"
 		"TeamRed"		"HUDRedTeamSolid"
 		"IconColor"		"HudWhite"
 		"LocalPlayerColor"	"HUDBlack"
 
-		"BaseBackgroundColor"	"46 43 42 125"		[$WIN32]
-		"LocalBackgroundColor"	"245 229 196 200"	[$WIN32]
+		"BaseBackgroundColor"	"46 43 42 255"		[$WIN32]
+		"LocalBackgroundColor"	"245 229 196 255"	[$WIN32]
 	}
 
 	HudVehicle
